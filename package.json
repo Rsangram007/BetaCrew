@@ -1,0 +1,14 @@
+{
+  "name": "betacrew_exchange_server",
+  "version": "1.0.0",
+  "main": "client.js",
+  "scripts": {
+    "start": "npx nodemon client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
